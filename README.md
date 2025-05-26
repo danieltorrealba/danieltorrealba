@@ -3,21 +3,27 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieltorrealba&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="danieltorrealba" /> </p>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+</a> <br>
 🚀 Sobre mí
-Como Técnico Superior Universitario en Informática, combino sólidos fundamentos académicos con pasión por el desarrollo web. Mi enfoque se centra en crear soluciones digitales eficientes y escalables que generen valor real para las empresas. <br>
+Como Técnico Superior Universitario en Informática, combino sólidos fundamentos académicos con pasión por el desarrollo web. Mi enfoque se centra en crear soluciones digitales eficientes y escalables que generen valor real para las empresas. <br><br>
 💼 ¿Por qué trabajar conmigo?
-
+<br><br>
 ✅ Resultados comprobados: Experiencia sólida en desarrollo web full stack
+<br>
 ✅ Adaptabilidad express: Me integro rápidamente a nuevos equipos y tecnologías
+<br>
 ✅ Mentalidad proactiva: Anticipo problemas y propongo soluciones
+<br>
 ✅ Autodidacta por naturaleza: Siempre actualizado con las últimas tendencias
+<br>
 ✅ Resistencia bajo presión: Entrego proyectos de calidad en tiempos ajustados
+<br>
 ✅ 100% responsable: Compromiso total con deadlines y objetivos del equipo
-
+<br><br>
 
 🛠️ Stack Tecnológico
 <div align="center">
+  <br><br>
 Frontend
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
