@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Daniel Torrealba</h1>
-<h3 align="center">&#127470;&#127475; TSU en Informática | Desarrollador Web</h3>
+<h3 align="center">&#127470; TSU en Informática | Desarrollador Web</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieltorrealba&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="danieltorrealba" /> </p>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
